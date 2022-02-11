@@ -1,2 +1,1 @@
-# Javascript-Piano
-Piano made using HTML,CSS AND JS by RojanGamingYT
+# Javascript Piano | Piano Using Html Css Javascript 
