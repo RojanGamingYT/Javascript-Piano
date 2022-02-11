@@ -6,4 +6,4 @@
 
 # Example Video
 
-[![Watch the video](property/video.mp4)]
+property/video.mp4
