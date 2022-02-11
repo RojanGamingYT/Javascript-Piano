@@ -6,4 +6,6 @@
 
 # Example Video
 
-property/video.mp4
+<a href="https://jspiano.rojansapkota.com.np/">
+         <img alt="Image" src="property/video.mp4">
+      </a>
