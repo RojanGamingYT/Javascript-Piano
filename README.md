@@ -6,7 +6,4 @@
 
 # Example Video
 
-<video width="320" height="240">
-  <source src="property/video.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](property/video.mp4)
