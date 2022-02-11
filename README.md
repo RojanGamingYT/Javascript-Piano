@@ -6,6 +6,8 @@
 
 # Example Video
 
-<a href="https://jspiano.rojansapkota.com.np/">
-         <img alt="Video" src="property/video.mp4">
-      </a>
+<video width="320" height="240" controls>
+  <source src="property/video.mp4" type="video/mp4">
+  <source src="property/video.mp4" type="video/ogg">
+Your browser does not support the video tag.
+</video>
