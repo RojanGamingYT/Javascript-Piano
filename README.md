@@ -7,5 +7,5 @@
 # Example Video
 
 <a href="https://jspiano.rojansapkota.com.np/">
-         <img alt="Image" src="property/video.mp4">
+         <img alt="Video" src="property/video.mp4">
       </a>
