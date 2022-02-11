@@ -6,4 +6,4 @@
 
 # Example Video
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](property/video.mp4)
+[![Watch the video](property/video.mp4)]
